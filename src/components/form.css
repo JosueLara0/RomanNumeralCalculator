@@ -1,0 +1,35 @@
+.div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  color: #feb139;
+  font-size: 20px;
+  font-weight: 500;
+  max-width: 700px;
+}
+.title {
+  color: #0d6efd;
+  font-size: 36px;
+  font-weight: 700;
+}
+.button {
+  width: 50%;
+}
+
+@media screen and (max-width: 568px) {
+  .form {
+    width: 90%;
+    font-size: medium;
+  }
+
+  .title {
+    font-size: 26px;
+  }
+
+  .button {
+    width: 80%;
+  }
+}
