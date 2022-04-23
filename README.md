@@ -1,6 +1,6 @@
 # ROMAN NUMERAL CALCULATOR
 
-Calculator that allows you to convert Roman numerals to Decimal numbers and vice versa.
+Calculator that allows you to convert Roman numerals to Decimal numbers and vice versa using hash tables.
 
 1.  Main menu with the calculator component.
 
