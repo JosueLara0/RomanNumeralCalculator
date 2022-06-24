@@ -3,6 +3,23 @@
 Calculator that allows you to convert Roman numerals to Decimal numbers and vice versa using hash tables.
 
 1.  Main menu with the calculator component.
+2.  Responsive design.
+
+# Deployment
+
+VERCEL:
+
+[LINK](https://roman-numeral-calculator.vercel.app/)
+
+## Screenshots
+
+Desktop version:
+
+![Screenshot](src/assets/screenshots/screenshot-desktop.png)
+
+Mobile version:
+
+![Screenshot](src/assets/screenshots/screenshot-mobile.png)
 
 ## Libraries
 
